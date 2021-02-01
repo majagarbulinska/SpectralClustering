@@ -5,6 +5,12 @@
   <em>Check Caption</em>
 </p>
 
+<figure>
+    <img src="Kangaroo-rat.jpg" alt='missing' />
+    <figcaption>Album name goes here
+        <br>Year goes here
+        <br>artist name goes here</figcaption>
+</figure>
 
 Spectral Clustering of the Kangaroo Rat Mating Networks
 
