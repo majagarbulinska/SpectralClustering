@@ -31,9 +31,11 @@ I use the `igraph` R package to read in the data and visualize it. In the graph 
 
 
   
-The goal of this script is to use simple linear alegbra and find the clusters. If you follow the code you will see that the main clusters can be discovered by checking the eigenvectors with the smallest non-zero eigen values. The clusters can be extracted by checking the sign of the values in those vectors. The final clusters can be found as a list in the `clusters` variable. 
+The goal of this script is to use simple linear alegbra and find the clusters. If you follow the code you will see that the main clusters can be found by looking at the eigenvectors with the smallest non-zero eigenvalues. In those eigenvectors, the values corresponding to the individuals that form a cluster will have the same sign (positive, negative) and the individuals not taken into acount at split will have a respective value of zero. 
 
-Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I can then plot the clusters.
+The final clusters can be found as a list in the `clusters` variable. 
+
+Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I can then also plot the clusters.
 
 <p align="center">
   <img src="NetworksClusters.png", height = 450, weight = "500"/>
