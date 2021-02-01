@@ -16,7 +16,7 @@ The data used and contained in this repository was collected by Jan A. Randall a
 I use the `igraph` R package to read in the data and visualize it. In the graph attached below we can see that there are 6 main clusters which are separate. 
 
 <p align="center">
-  <img src="Networks.png", height = "450", weight = "450"/>
+  <img src="Networks.png", height = "450", weight = "500"/>
    <br>
   <em><small>The Network</small></em>
 </p>
@@ -26,10 +26,10 @@ I use the `igraph` R package to read in the data and visualize it. In the graph 
   
 The goal of this script is to use simple linear alegbra and find the clusters. If you follow the code you will see that the main clusters can be discovered by checking the eigenvectors with the smallest non-zero eigen values. The clusters can be extracted by checking the sign of the values in those vectors. The final clusters can be found as a list in the `clusters` variable. 
 
-Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I then can plot the clusters.
+Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I can then plot the clusters.
 
 <p align="center">
-  <img src="NetworksClusters.png", height = 450, weight = "450"/>
+  <img src="NetworksClusters.png", height = 450, weight = "500"/>
    <br>
   <em><small>The Clustered Netwrok</small></em>
 </p>
