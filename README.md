@@ -3,8 +3,9 @@
 <p align="center">
   <img src="Kangaroo-rat.jpg" width="350" height="250"/>
    <br>
-  <em>Source: The Kangaroo Rat (Dipodomys spectabilis) https://en.wikipedia.org/wiki/Kangaroo_rat#/media/File:Kangaroo-rat.jpg</em>
+  <em><small>Source: The Kangaroo Rat (Dipodomys spectabilis) https://en.wikipedia.org/wiki/Kangaroo_rat#/media/File:Kangaroo-rat.jpg</small></em>
 </p>
+
 
 Spectral Clustering of the Kangaroo Rat Mating Networks
 
