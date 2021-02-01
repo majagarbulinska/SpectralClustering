@@ -15,7 +15,7 @@ The data used and contained in this repository was collected by Jan A. Randall a
 
 I use the `igraph` R package to read in the data and visualize it. In the graph attached below we can see that there are 6 main clusters which are separate. 
 <p align="center">
-  <img src="networks.pdf" width="350" height="250", type= "application.pdf"/>
+  <img src="Networks.pdf" width="350" height="250", type= "application.pdf"/>
    <br>
   <em><small>Source: The Kangaroo Rat (Dipodomys spectabilis) https://en.wikipedia.org/wiki/Kangaroo_rat#/media/File:Kangaroo-rat.jpg</small></em>
 </p>
