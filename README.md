@@ -16,7 +16,7 @@ The data used and contained in this repository was collected by Jan A. Randall a
 I use the `igraph` R package to read in the data and visualize it. In the graph attached below we can see that there are 6 main clusters which are separate. 
 
 <p align="center">
-  <img src="Networks.pdf" width="350" height="250"/>
+  <img src="Networks.pdf"/>
    <br>
   <em><small>The mating networks/small></em>
 </p>
@@ -26,7 +26,7 @@ The goal of this script is to use simple linear alegbra and find the clusters. I
 Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I then can plot the clusters.
 
 <p align="center">
-  <img src="NetworksClusters.pdf" width="350" height="250"/>
+  <img src="NetworksClusters.pdf"/>
    <br>
   <em><small>The clusters found using eigen values and eigen vectors/small></em>
 </p>
