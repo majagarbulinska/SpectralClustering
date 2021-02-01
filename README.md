@@ -15,19 +15,19 @@ The data used and contained in this repository was collected by Jan A. Randall a
 
 I use the `igraph` R package to read in the data and visualize it. In the graph attached below we can see that there are 6 main clusters which are separate. 
 
-<p align="center">
-  <img src="Networks.pdf"/>
-   <br>
-  <em><small>The mating networks/small></em>
-</p>
+<object data="networks.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="networks.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
   
 The goal of this script is to use simple linear alegbra and find the clusters. If you follow the code you will see that the main clusters can be discovered by checking the eigenvectors with the smallest non-zero eigen values. The clusters can be extracted by checking the sign of the values in those vectors. The final clusters can be found as a list in the `clusters` variable. 
 
 Additionally I use the `igraph::cluster_leading_eigen()` to check if my computations were correct. I then can plot the clusters.
 
-<p align="center">
-  <img src="NetworksClusters.pdf"/>
-   <br>
-  <em><small>The clusters found using eigen values and eigen vectors/small></em>
-</p>
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
