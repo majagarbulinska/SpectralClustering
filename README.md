@@ -9,7 +9,10 @@
 
 This repository contains a short script that uses simple linear algebra for spectral clustering of mating networks of the Kangaroo Rat. The script can be used for education purposes to perform spectral clustering of networks using eigenvectors step by step. 
 
-The data used and contained in this repository was collected by Jan A. Randall as part of his study that can be found [here](https://link.springer.com/article/10.1007/BF00172173). I downloaded the data from [The Animal Social Structure Network Repository](https://github.com/bansallab/asnr)
+The data used and contained in this repository was collected by Jan A. Randall as part of his study that can be found [here](https://link.springer.com/article/10.1007/BF00172173). 
+> The mating system of a nocturnal, desert rodent, the banner-tailed kangaroo rat (Dipodomys spectabilis) was studied through direct observation, live-trapping, and radiotelemetry over a 13-month period from August 1986 to August 1987. Mating behavior varied from exclusive matings between male and female neighbors to competitive mate searching and direct male competition. In summer matings and early in a November to May breeding season, males located receptive females and mated exclusively with them without disturbance from other males. As the operational sex ratio changed in favor of males, multiple males converged on an estrous female's territory and competed for access to her. However, an older, experienced male usually monopolized the matings of the same one to two close female neighbors for the entire breeding period, and females mated with the same male neighbor over several estrous cycles. Monopolization of females by neighbor males was facilitated by female relaxation of individual territorial defense. Dominant males spent considerable time in the territories of the females they monopolized before and during mating. This relaxation in territorial defense was seen in dyadic encounters in which females tolerated all males but allowed significantly more contact by neighbor than stranger males. Neighbor recognition, therefore, seems important in coordinating the mating interactions of this solitary rodent.
+
+I downloaded the data from [The Animal Social Structure Network Repository](https://github.com/bansallab/asnr)
 
 ### More Details
 
