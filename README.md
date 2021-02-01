@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="Kangaroo-rat.jpg" width="350" height="250">
+  <em>Check Caption</em>
 </p>
 
 
