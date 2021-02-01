@@ -1,16 +1,10 @@
 # Spectral Clustering of the Kangaroo Rat Mating Networks Using Eigenvectors
 
 <p align="center">
-  <img src="Kangaroo-rat.jpg" width="350" height="250"/>
+  <img src="Kangaroo-rat.jpg" width="350" height="250"/>\
+   <br>
   <em>Check Caption</em>
 </p>
-
-<figure>
-    <img src="Kangaroo-rat.jpg" alt='missing' />
-    <figcaption>Album name goes here
-        <br>Year goes here
-        <br>artist name goes here</figcaption>
-</figure>
 
 Spectral Clustering of the Kangaroo Rat Mating Networks
 
