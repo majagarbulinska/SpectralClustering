@@ -7,9 +7,9 @@
 </p>
 
 
-This repository contains a short script that uses simple linear algebra for spectral clustering of mating networks of the Kangaroo Rat. The script can be used for educational purposes. You can follow the code to perform spectral clustering of networks using eigenvectors step by step. 
+This repository contains a short R script that uses simple linear algebra for spectral clustering of mating networks of the Kangaroo Rat. The script can be used for educational purposes. You can follow the code to perform spectral clustering of networks using eigenvectors step by step. 
 
-The data used and contained in this repository was collected by Jan A. Randall as part of his study that can be found [here](https://link.springer.com/article/10.1007/BF00172173). Here are some quotes from the paper:
+The data used and contained in this repository (`kangaroo_rat_randall.graphml`) was collected by Jan A. Randall as part of his study that can be found [here](https://link.springer.com/article/10.1007/BF00172173). Here are some quotes from the paper:
 
 > The mating system of a nocturnal, desert rodent, the banner-tailed kangaroo rat (Dipodomys spectabilis) was studied through direct observation, live-trapping, and radiotelemetry over a 13-month period from August 1986 to August 1987. Mating behavior varied from exclusive matings between male and female neighbors to competitive mate searching and direct male competition.
 
